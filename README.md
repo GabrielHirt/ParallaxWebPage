@@ -1,2 +1,2 @@
 # ParallaxWebPage
-Testing Parallax
+Testing parallax effect
